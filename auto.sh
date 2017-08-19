@@ -33,7 +33,7 @@ sleep 0.5
 
 cat << EOF
 
- $f1 'CerNer Team'$rst
+ $f1 'LeeMute Team'$rst
 
 
 
