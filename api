@@ -10,7 +10,7 @@ function print_logo() {
 
 	echo -e "\033[38;5;600m"
 
-	echo -e "          CerNer Team"
+	echo -e "          Lee Team"
 
 	echo -e "          Api Bot"
 
@@ -46,7 +46,7 @@ if [ ! $token ]; then
 
    echo -e "\033[38;5;208m"
 
-   echo -e "                        CerNer Team                           "
+   echo -e "                        Lee Team                           "
 
    echo -e "\033[0;00m"
 
